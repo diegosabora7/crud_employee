@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\Downloads\\Angular10dotNETCoreAPI-master\\crud_employee\\backend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\GitHub\\crud_employee\\backend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Diego\\Downloads\\Angular10dotNETCoreAPI-master\\crud_employee\\backend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\GitHub\\crud_employee\\backend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\Downloads\\Angular10dotNETCoreAPI-master\\crud_employee\\backend\\WebAPI\\obj\\",
+      "outputPath": "D:\\GitHub\\crud_employee\\backend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
